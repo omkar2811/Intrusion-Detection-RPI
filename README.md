@@ -1,4 +1,4 @@
-# Intrusion Detection using RPI and Face Detection Algorithm using AWS Rekognition API
+# Intrusion Detection of a unkown person at door using RPI and AWS Rekognition API
 
 Recognition of person using face recognition system, using raspberry pi camera module,deploying
 the data over AWS cloud computing platform.
