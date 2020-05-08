@@ -1,4 +1,4 @@
-# Intrusion Detection of a person at door using RPI and AWS Rekognition API
+# Smart Door-Lock System using RPI and AWS Rekognition API
 
 Recognition of person using face recognition system, using raspberry pi camera module,deploying
 the data over AWS cloud computing platform.
